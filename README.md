@@ -1,4 +1,4 @@
-# LexAnalyzer-YaccParssing
+# LexAnalyzer-YaccParsing
 Lex Tarayıcısı ve Yacc Ayrıştırıcı Kullanılarak dört işlem yapan ve işlem önceliğinde LR ayrıştırması kullanan basit bir derleyici tasarladım 
 
 *Lexical Analiz ödevinde "Cygwin64 Terminal" kullanılmıştır.
